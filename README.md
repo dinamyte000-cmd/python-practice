@@ -11,6 +11,7 @@ No setup needed. Each badge opens the file in a free online Python editor and ru
 | [`Addition.py`](./Addition.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=dinamyte000-cmd/python-practice/main/Addition.py) |
 | [`main.py`](./main.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=dinamyte000-cmd/python-practice/main/main.py) |
 | [`untitled.py`](./untitled.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=dinamyte000-cmd/python-practice/main/untitled.py) |
+| [`untitled1.py`](./untitled1.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=dinamyte000-cmd/python-practice/main/untitled1.py) |
 
 Made with [pythoncompiler.io](https://pythoncompiler.io/?utm_source=github&utm_medium=practice-repo) - the free online Python compiler.
 <!-- /pythoncompiler:files -->
